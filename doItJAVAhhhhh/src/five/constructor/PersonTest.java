@@ -1,4 +1,4 @@
-package constructor;
+package five.constructor;
 
 public class PersonTest {
     public static void main(String[] args) {

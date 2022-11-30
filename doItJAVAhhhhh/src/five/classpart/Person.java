@@ -1,4 +1,4 @@
-package classpart;
+package five.classpart;
 
 public class Person {
     String name;

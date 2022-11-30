@@ -1,4 +1,4 @@
-package reference;
+package five.reference;
 
 public class Subject {
     String subjectName;

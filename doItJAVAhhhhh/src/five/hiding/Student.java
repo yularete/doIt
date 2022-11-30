@@ -1,4 +1,4 @@
-package hiding;
+package five.hiding;
 
 public class Student {
 
@@ -14,3 +14,4 @@ public class Student {
     public void setStudentName(String studentName) {
         this.studentName = studentName;
     }
+}

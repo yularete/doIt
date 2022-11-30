@@ -1,4 +1,4 @@
-package reference;
+package five.reference;
 
 public class Student1 {
     int studentID;
