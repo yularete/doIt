@@ -1,4 +1,4 @@
-package singleton;
+package six.singleton;
 
 public class CompanyTest {
     public static void main(String[] args) {

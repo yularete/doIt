@@ -1,4 +1,4 @@
-package staticex;
+package six.staticex;
 
 public class Student1 {
 

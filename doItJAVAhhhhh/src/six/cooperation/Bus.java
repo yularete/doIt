@@ -1,4 +1,4 @@
-package cooperation;
+package six.cooperation;
 
 public class Bus {
     int busNumber;

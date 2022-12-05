@@ -1,4 +1,4 @@
-package staticex;
+package six.staticex;
 
 public class StudentTest4 {
     public static void main(String[] args) {
